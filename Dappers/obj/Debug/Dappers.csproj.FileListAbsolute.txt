@@ -1,0 +1,8 @@
+C:\Users\TDP-70\Desktop\Dappers\Dappers\bin\Debug\Dappers.exe.config
+C:\Users\TDP-70\Desktop\Dappers\Dappers\obj\Debug\Dappers.csprojResolveAssemblyReference.cache
+C:\Users\TDP-70\Desktop\Dappers\Dappers\bin\Debug\Dappers.exe
+C:\Users\TDP-70\Desktop\Dappers\Dappers\bin\Debug\Dappers.pdb
+C:\Users\TDP-70\Desktop\Dappers\Dappers\bin\Debug\Dapper.dll
+C:\Users\TDP-70\Desktop\Dappers\Dappers\bin\Debug\Dapper.xml
+C:\Users\TDP-70\Desktop\Dappers\Dappers\obj\Debug\Dappers.exe
+C:\Users\TDP-70\Desktop\Dappers\Dappers\obj\Debug\Dappers.pdb
